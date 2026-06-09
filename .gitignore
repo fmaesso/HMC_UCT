@@ -1,0 +1,30 @@
+/Debug/
+/build/
+
+# CMake / Ninja / generated build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.ninja
+*.obj
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.hex
+*.bin
+*.list
+*.lst
+
+# Local editor/index caches
+.cache/
+
+# TouchGFX simulator/build outputs and generated caches
+/TouchGFX/build/
+/TouchGFX/generated/fonts/cache/
+/TouchGFX/generated/texts/cache/
+
+# Local backup copies
+/Middlewares/ST/touchgfx_backup/
